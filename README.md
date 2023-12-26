@@ -2,7 +2,7 @@
 
 **We will upload the code and pre-training model after the article is accepted.**
 
-![visualization](./assets/visualization.png)
+![visualization](./assets/visualization_revise.png)
 
 ## 1.Environment Setup
 
