@@ -35,7 +35,7 @@ If you want to replace the dataset, you can use the variable dataset = 'dataset 
 
 ## Test
 
-Download our trained model, [Trancos](链接: https://pan.baidu.com/s/17rBglueGXt7jHfas7cj95A?pwd=skas 提取码: skas).
+Download our trained model, ![Trancos](链接: https://pan.baidu.com/s/17rBglueGXt7jHfas7cj95A?pwd=skas 提取码: skas).
 
 **If you want to use our model quickly, you can use the test.py file directly and modify the path to the model in the file to get our results quickly.**
 
