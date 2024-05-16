@@ -23,14 +23,6 @@ wandb
 matplotlib
 ```
 
-## Data Preprocessing
-
-
-
-
-
-**If you want to use our model quickly, you can use the test.py file directly and modify the path to the model in the file to get our results quickly.**
-
 ## Train
 
 - train.py
@@ -42,6 +34,10 @@ python train.py
 If you want to replace the dataset, you can use the variable dataset = 'dataset name' in the train.py file. There are also a number of parameters that can be modified to suit your needs, such as learning rate, epochs, etc.
 
 ## Test
+
+Download our trained model, [Trancos](链接: https://pan.baidu.com/s/17rBglueGXt7jHfas7cj95A?pwd=skas 提取码: skas).
+
+**If you want to use our model quickly, you can use the test.py file directly and modify the path to the model in the file to get our results quickly.**
 
 - test.py
 
