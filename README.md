@@ -1,6 +1,5 @@
 # OSTNet: Overlapping Splitting Transformer Network with Integrated Density Loss for Vehicle Density Estimation
 
-**We will upload the code and pre-training model after the article is accepted.**
 
 ![visualization](./assets/visualization_revise.png)
 
